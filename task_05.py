@@ -14,4 +14,4 @@ elif 140 <= BP <= 159:
     BP_STATUS = 'High'
 else:
     BP_STATUS = 'Emergency'
-print  'Your status is currently:{}'.format(BP_STATUS)
+print 'Your status is currently:{}'.format(BP_STATUS)
